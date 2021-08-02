@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 - 🤔 Precio de ajuda (orientação nessas duas linguagens, se quiser sugerir/comentar algo, sinsta-se a vontade.
 - 💬 Caso tenha alguma dúvida, pode merguntar, tô aqui pra responder.
 - 📫 Meu e-mail é: dirceu.garcia@fatec.sp.gov.br
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
  <div>
   <a href="https://github.com/dirceug">
@@ -42,3 +40,16 @@ Here are some ideas to get you started:
 ![Snake animation](https://github.com/Dirceug/Dirceug/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ 
+<!--
+<div>
+ <strong>
+  Meus princiapis porjetos:
+ </strong>
+  
+ <strong>
+  Francakut:
+ </strong>
+ <img src ="https://www.instagram.com/p/CRfYQLGH6BwUijllv_vnFYgoMOmMPNVhWb5NWM0/?utm_medium=copy_link">
+</div)
+-->
