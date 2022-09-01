@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <strong>Olá! Eu sou o Dirceu Garcia.</strong>
 
 - 🔭 Hoje trabalho com fotografia, estou em processo de aprendizagem na programação
-- 🌱 Estudo na Fatec - Franca, estou no quarto semestre de ASD (Análise e Desenvolvimento do Software).
+- 🌱 Estudo na Fatec - Franca, estou no sexto semestre de ASD (Análise e Desenvolvimento do Software).
 - 👯 Quero conlaborar com pessoas fazendo projetos em JS e React quem precisa de assistência pode chamar.
 - 🤔 Precio de ajuda (orientação nessas duas linguagens, se quiser sugerir/comentar algo, sinsta-se a vontade.
 - 💬 Caso tenha alguma dúvida, pode merguntar, tô aqui pra responder.
-- 📫 Meu e-mail é: dirceu.garcia@fatec.sp.gov.br
+- 📫 Meu e-mail é: dirceu.garcia@gamil.com
 
  <div>
   <a href="https://github.com/dirceug">
