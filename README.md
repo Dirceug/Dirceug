@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <strong>Olá! Eu sou o Dirceu Garcia.</strong>
 
-- 🔭 Hoje trabalho com fotografia, estou em processo de aprendizagem na programação
-- 🌱 Estudo na Fatec - Franca, estou no sexto semestre de ASD (Análise e Desenvolvimento do Software).
+- 🔭 Hoje trabalho com fotografia e como agente de ralacionamento no Magazine Luiza, estou em processo de aperfeiçoamento na programação
+- 🌱 Estudo na Fatec - Franca, Sou graduado em ASD (Análise e Desenvolvimento do Software) e estou no terceiro semestre de DSM(Desenvolvimento de Software Multiplataforma).
 - 👯 Quero conlaborar com pessoas fazendo projetos em JS e React quem precisa de assistência pode chamar.
-- 🤔 Precio de ajuda (orientação nessas duas linguagens, se quiser sugerir/comentar algo, sinsta-se a vontade.
+- 🤔 Precio de ajuda também (orientação) nessas duas linguagens, se quiser sugerir/comentar algo, sinsta-se a vontade.
 - 💬 Caso tenha alguma dúvida, pode merguntar, tô aqui pra responder.
 - 📫 Meu e-mail é: dirceu.garcia@gamil.com
 
