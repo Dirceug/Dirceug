@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 👯 Quero conlaborar com pessoas fazendo projetos em JS e React quem precisa de assistência pode chamar.
 - 🤔 Precio de ajuda também (orientação) nessas duas linguagens, se quiser sugerir/comentar algo, sinsta-se a vontade.
 - 💬 Caso tenha alguma dúvida, pode merguntar, tô aqui pra responder.
-- 📫 Meu e-mail é: dirceu.garcia@gamil.com
+- 📫 Meu e-mail é: dirceu.garcia@gmail.com
 
  <div>
   <a href="https://github.com/dirceug">
