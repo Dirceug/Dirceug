@@ -17,10 +17,17 @@ Here are some ideas to get you started:
 
 <strong>Olá! Eu sou o Dirceu Garcia.</strong>
 
-- 🔭 Hoje trabalho com fotografia e como agente de ralacionamento no Magazine Luiza, estou em processo de aperfeiçoamento na programação
+- 🔭 Programador formado em ADS (Análise e Desenvolvimento de Sistemas).
 - 🌱 Estudo na Fatec - Franca, Sou graduado em ASD (Análise e Desenvolvimento do Software) e estou no terceiro semestre de DSM(Desenvolvimento de Software Multiplataforma).
-- 👯 Quero conlaborar com pessoas fazendo projetos em JS e React quem precisa de assistência pode chamar.
-- 🤔 Precio de ajuda também (orientação) nessas duas linguagens, se quiser sugerir/comentar algo, sinsta-se a vontade.
+- Tenho aqui alguns projetos com as tecnologias:
+- 🗄MongoDB
+- 🛣 Express
+- ⚛ React
+- 🖥Node
+
+  
+- 👯 Quero colaborar com pessoas fazendo projetos em JavaScript e React quem precisa de assistência pode chamar.
+- 🤔 Aceito  de ajuda também (orientação) nessas  linguagens, se quiser sugerir/comentar algo, sinsta-se a vontade.
 - 💬 Caso tenha alguma dúvida, pode merguntar, tô aqui pra responder.
 - 📫 Meu e-mail é: dirceu.garcia@gmail.com
 
